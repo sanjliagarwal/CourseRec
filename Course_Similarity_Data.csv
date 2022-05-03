@@ -1,0 +1,21 @@
+﻿,Course Title,Units,segment_Data Structures and Algorithms,segment_Computer Architecture,segment_Mathematical Computing,segment_Design,segment_Application Development,segment_Inter Branch Course,segment_Data Science,Job,Research,Has_Assignment,Has_Project,Has_Final,Has_MidTerm,AssignmentFrequency_Num,Has_Coding
+0,The structure and Interpretation of Computer Programs,4,1,0,0,0,0,0,0,1,0,1,0,1,1,1,1
+1,Data Structures,4,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1
+2,Machine Structures,4,0,1,0,0,0,0,0,0,1,1,1,1,0,2,0
+3,Discrete Mathematics and Probability Theory,4,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0
+4,Computer Architecture and Engineering,5,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1
+5,User Interface Design and Development,4,0,0,0,0,1,0,0,1,0,1,1,1,0,2,1
+6,Computer Security,4,0,1,0,0,0,0,0,1,1,1,0,0,1,1,0
+7,Operating Systems and System Programming,4,0,1,0,0,0,0,0,0,1,1,0,1,1,2,0
+8,Programming Languages and Compilers,4,1,0,0,0,0,0,0,0,1,1,1,1,0,2,1
+9,Introduction to the Internet: Architecture and Protocols,4,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0
+10,Software Engineering,4,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+11,Efficient Algorithms and Intractable Problems,4,0,0,0,1,0,0,0,1,0,1,1,0,1,2,1
+12,Computability and Complexity,4,0,0,0,1,0,0,0,0,1,1,0,1,1,1,0
+13,Combinatorics and Discrete Probability,4,0,0,1,0,0,0,0,0,1,1,0,0,1,2,0
+14,Algorithms for Computational Biology,4,1,0,0,0,0,0,0,1,1,0,1,1,1,0,0
+15,Foundations of Computer Graphics,4,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0
+16,Introduction to Database Systems,4,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1
+17,Introduction to Artificial Intelligence,4,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1
+18,Introduction to Machine Learning,4,0,0,0,0,0,0,1,1,1,1,1,1,1,2,1
+19,Quantum Information Science and Technology,3,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0
